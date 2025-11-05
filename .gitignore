@@ -1,0 +1,7 @@
+# Virtual environment
+venv/
+.venv/
+
+# Standard Python ignore patterns (optional but helpful)
+__pycache__/
+*.pyc
