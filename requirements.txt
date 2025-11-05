@@ -5,3 +5,5 @@ sentence-transformers
 PyPDF2
 spacy
 nltk
+fpdf
+matplotlib
