@@ -7,4 +7,4 @@ spacy
 nltk
 fpdf
 matplotlib
-openai
+google-generativeai

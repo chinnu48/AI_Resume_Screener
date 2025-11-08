@@ -1,0 +1,83 @@
+{
+  "candidate_records": [
+    {
+      "timestamp": "2025-11-07T08:40:29.867408",
+      "candidate_name": "Ram CV.pdf",
+      "candidate_email": "",
+      "target_role": "",
+      "resume_file": "Ram CV.pdf",
+      "scores": {
+        "Skill Match": 83.33,
+        "Semantic Match": 6.46,
+        "ATS Score": 72.48,
+        "Experience Score": 12.55
+      },
+      "total_score": 51.33,
+      "matched_skills": [
+        "python",
+        "java",
+        "sql",
+        "html",
+        "css"
+      ],
+      "missing_skills": [
+        "testing"
+      ],
+      "weights": {
+        "Skill Match": 0.4,
+        "Semantic Match": 0.25,
+        "ATS Score": 0.2,
+        "Experience Score": 0.15
+      },
+      "ai_feedback": null,
+      "job_description_excerpt": "Job Description: Junior Software Developer\nLocation: Pune, India (On-site / Hybrid)\nExperience: 0-1 Years (Freshers are encouraged to apply)\n\nAbout the Role:\nWe are seeking a motivated and passionate Junior Software Developer to join our dynamic team. The ideal candidate is a recent Computer Science graduate with a foundational knowledge of multiple programming languages and a keen interest in building efficient software solutions. You will be involved in the development, testing, and implementa",
+      "workspace_code": "general"
+    },
+    {
+      "timestamp": "2025-11-07T08:48:02.078365",
+      "candidate_name": "atul",
+      "candidate_email": "atula48@gmail.com",
+      "target_role": "software devloper",
+      "resume_file": "Atul Pachnure Resume test.pdf",
+      "scores": {
+        "Skill Match": 83.33,
+        "Semantic Match": 7.39,
+        "ATS Score": 69.14,
+        "Experience Score": 14.53
+      },
+      "total_score": 51.19,
+      "matched_skills": [
+        "python",
+        "java",
+        "sql",
+        "html",
+        "css"
+      ],
+      "missing_skills": [
+        "testing"
+      ],
+      "weights": {
+        "Skill Match": 0.4,
+        "Semantic Match": 0.25,
+        "ATS Score": 0.2,
+        "Experience Score": 0.15
+      },
+      "ai_feedback": null,
+      "job_description_excerpt": "Job Description: Junior Software Developer\nLocation: Pune, India (On-site / Hybrid)\nExperience: 0-1 Years (Freshers are encouraged to apply)\n\nAbout the Role:\nWe are seeking a motivated and passionate Junior Software Developer to join our dynamic team. The ideal candidate is a recent Computer Science graduate with a foundational knowledge of multiple programming languages and a keen interest in building efficient software solutions. You will be involved in the development, testing, and implementa",
+      "workspace_code": "general"
+    }
+  ],
+  "recruiter_sessions": [],
+  "messages": [
+    {
+      "timestamp": "2025-11-07T08:46:15.571345",
+      "channel": "general",
+      "author": "Candidate",
+      "author_email": "",
+      "role": "candidate",
+      "message": "test 1"
+    }
+  ],
+  "candidate_notes": [],
+  "interview_events": []
+}
